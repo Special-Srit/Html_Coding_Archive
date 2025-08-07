@@ -193,6 +193,19 @@
      box-shadow: 0 10px 20px rgba(124, 58, 237, 0.3);
  }
 
+.award-card {
+     padding: 2rem;
+     text-align: center;
+     height: 100%;
+     border-left: 4px solid var(--lavender-dark);
+ }
+
+ .award-icon {
+     font-size: 3rem;
+     color: var(--lavender-accent);
+     margin-bottom: 1rem;
+ }
+
  .social-links a {
      color: var(--lavender-accent);
      font-size: 1.5rem;
